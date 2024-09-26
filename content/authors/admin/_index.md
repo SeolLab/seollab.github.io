@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 설기현
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Seol Ki-Hyun
 
-# Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+# Full name
+first_name: Ki-Hyun
+last_name: Seol
 
 # Status emoji
 status:
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: AI Offensive Security Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -28,16 +28,16 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'seolpark731@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/seollab
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/SeolLab
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: www.linkedin.com/in/kihyun-seol-48a858287
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/key_seol/
 
 education:
   - area: PhD Artificial Intelligence
@@ -49,24 +49,13 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Computer Science
+    institution: Seoul National University of Science and Technology
+    date_start: 2021-02-22
+    date_end: 2025-06-24
     summary: |
-      GPA: 3.8/4.0
+      GPA: 4.3/4.5
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
